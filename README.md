@@ -1,16 +1,14 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="340px" max-width="400px" width="340px" align="right" alt="Computador">
 
 ### Hi there 👋
-- 👋 I’m @trunghieult1807 🇻🇳🇻🇳🇻🇳
-- 🌱 I'm a Mobile Application Developer.
-- 👀 I’m interested in coding and exploring new things ☕⚡🧑‍💻
-- 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev).
+- 👋 I’m Lê Trung Hiếu
+- 🌱 I'm a full-stack Developer.
+- 👀 I’m excited with well-documented code and new technologies ☕⚡🧑‍💻
 - 😄 Pronouns: he/him/his
 - 📫 How to reach me:
 
- [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trunghieult1807)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/trunghieult1807)
-<!-- [![StackOverflow](https://img.shields.io/badge/stackoverflow-%23F48024.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/18322031/ke-nguyen-duc) -->
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hieult-0796b9208/)
+[![StackOverflow](https://img.shields.io/badge/stackoverflow-%23F48024.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/13026116/hi%e1%ba%bfu-l%c3%aa)
 
 ### Github Stats
 
